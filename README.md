@@ -18,28 +18,31 @@ We will use Python and Jupyter notebooks with Machine Learning to predict credit
 3. Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 4. Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
 
-Oversampling using the RandomOverSampler and SMOTE.
-Undersamplling ClusterCentroids.
-Combine over and undersampling using the SMOTEENN.
-Compare the two machine learning models and reduce bias, 
-    1. BalancedRandomForestClassifier and 
-    2. EasyEnsembleClassifier.
-Finally evaluate the performance of these models to make a recommendation whether they are effective for predicting credit risk.
+- Oversampling using the RandomOverSampler and SMOTE.
+- Undersamplling ClusterCentroids.
+- Combine over and undersampling using the SMOTEENN.
+- Compare the two machine learning models and reduce bias, 
 
-Resources
-Data: LoanStats_2019Q1.csv
-Software: Python, Anaconda Navigator, Jupyter Notebook, Machine Learning environment using(numpy, scipy, scikit_learn)
+    1. BalancedRandomForestClassifier and 
+
+    2. EasyEnsembleClassifier.
+    
+- Finally evaluate the performance of these models to make a recommendation whether they are effective for predicting credit risk.
+
+# Resources
+## Data: LoanStats_2019Q1.csv
+## Software: Python, Anaconda Navigator, Jupyter Notebook, Machine Learning environment using(numpy, scipy, scikit_learn)
 
 # Results: 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 # Oversampling
-1. Naive Random Oversampling
+## 1. Naive Random Oversampling
 
 ![image](https://user-images.githubusercontent.com/96351897/166191116-975a23e9-92a1-4ee7-8986-4125429ea23a.png)
 
 
-2. SMOTE Oversampling
+## 2. SMOTE Oversampling
 
 ![image](https://user-images.githubusercontent.com/96351897/166191132-a388e321-c018-4529-8082-ac0571e0009e.png)
 
@@ -71,4 +74,4 @@ Summarize the results of the machine learning models, and include a recommendati
 
 EasyEnsembleClassifier model is the most effective providing highest score for all risk loans with low precision compared to remainder models detecting lots of low credit loans as high risk. however shows improved sensitivity on high risk loans. these discrepancies can cause loss to the bank in the long run and affect its credit strategy plus revenue and profits on the basis of those loans. 
 
- Based on the results it would not be justified to use any of the demonstrated models for the bank in the long run for predicting credit risk.
+ - Based on the results it would not be justified to use any of the demonstrated models for the bank in the long run for predicting credit risk.
