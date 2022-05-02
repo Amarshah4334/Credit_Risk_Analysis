@@ -35,12 +35,34 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 # Oversampling
 1. Naive Random Oversampling
+
+![image](https://user-images.githubusercontent.com/96351897/166191116-975a23e9-92a1-4ee7-8986-4125429ea23a.png)
+
+
 2. SMOTE Oversampling
+
+![image](https://user-images.githubusercontent.com/96351897/166191132-a388e321-c018-4529-8082-ac0571e0009e.png)
+
+
 # Undersampling
+
+![image](https://user-images.githubusercontent.com/96351897/166191151-565714fe-0988-449a-a3fa-77a72e294477.png)
+
+
+
 # Combination (Over and Under) Sampling
+
+![image](https://user-images.githubusercontent.com/96351897/166191065-6ffce6ec-0b57-47f4-8de9-96ba8991895e.png)
+
+
 # Balanced Random Forest Classifier
+
+![image](https://user-images.githubusercontent.com/96351897/166191045-935f3d8d-b182-4f7a-98ff-7d4c9e3ce41b.png)
+
+
 # Easy Ensemble AdaBoost Classifier
 
+![image](https://user-images.githubusercontent.com/96351897/166191106-fb364132-3ceb-4810-9cf0-06ce8fc7bfbe.png)
 
 
 
