@@ -30,8 +30,14 @@ We will use Python and Jupyter notebooks with Machine Learning to predict credit
 - Finally evaluate the performance of these models to make a recommendation whether they are effective for predicting credit risk.
 
 # Resources
-## Data: LoanStats_2019Q1.csv
-## Software: Python, Anaconda Navigator, Jupyter Notebook, Machine Learning environment using(numpy, scipy, scikit_learn)
+## Data: 
+LoanStats_2019Q1.csv
+
+
+## Software: 
+Python, Anaconda Navigator, Jupyter Notebook, Machine Learning environment using(numpy, scipy, scikit_learn)
+
+
 
 # Results: 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
