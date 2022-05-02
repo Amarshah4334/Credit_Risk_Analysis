@@ -68,3 +68,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 # Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+
+EasyEnsembleClassifier model is the most effective providing highest score for all risk loans with low precision compared to remainder models detecting lots of low credit loans as high risk. however shows improved sensitivity on high risk loans. these discrepancies can cause loss to the bank in the long run and affect its credit strategy plus revenue and profits on the basis of those loans. 
+
+ Based on the results it would not be justified to use any of the demonstrated models for the bank in the long run for predicting credit risk.
